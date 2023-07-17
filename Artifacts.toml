@@ -1,143 +1,143 @@
 [[JlrsLedger]]
 arch = "aarch64"
-git-tree-sha1 = "c3168ddb2c28eded3f591a235abe092c910e0668"
+git-tree-sha1 = "cdfa948aea9e16d703d1e111b2e2d1bc0ccce9cd"
 os = "macos"
 
     [[JlrsLedger.download]]
-    sha256 = "c14e0d7dbd2e8b0813ab80e97f79118b682227b7abeb3c478fe46578abf9023a"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.aarch64-apple-darwin.tar.gz"
+    sha256 = "91f3f20545c658fba821a9bc1fe2e93595160559ea4f7e486a6d75b7d8508630"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.aarch64-apple-darwin.tar.gz"
 [[JlrsLedger]]
 arch = "aarch64"
-git-tree-sha1 = "a90e1ba1438a34cb522995bb909131e1b9d7c645"
+git-tree-sha1 = "beb497afc98fdf6e41ccfef9d2ad8334cd7b0f5d"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "cd9f67e69b487c7695c02913e6666076965c0f10ad535f305a46e6e5aaed4bba"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.aarch64-linux-gnu.tar.gz"
+    sha256 = "f250eccce193a0fc09fdb3e95803cd01b7309a209436626d875b1d4f7ab22564"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.aarch64-linux-gnu.tar.gz"
 [[JlrsLedger]]
 arch = "aarch64"
-git-tree-sha1 = "2b48eaa762754728861f2ffe07e57d2fa96249c7"
+git-tree-sha1 = "36661e3c75063f88eecb20cb16397c7822954751"
 libc = "musl"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "0dba4d0c55e013a5c71ae9d4cd59f0b716214e41eedcbc5fe883b2dc98ff2488"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.aarch64-linux-musl.tar.gz"
+    sha256 = "f35a7cf3ca35e44a5c88f6b012d2cf7517b76d7cf00c72247b801e5bb3be2454"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.aarch64-linux-musl.tar.gz"
 [[JlrsLedger]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "be909f54eede03e244cd86c62917ff1d1ea05c11"
+git-tree-sha1 = "313e2683b36b3531861873cb6e5c09f9d74f2da8"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "674a1de1881889e593800d036c10829dab4738c95ae7d3b73c7189fab9bb4681"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "b1bbecc0830d29d2d0d7da2b32f5ab4f829841f54b169a22cc9a118fb9f58048"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.armv6l-linux-gnueabihf.tar.gz"
 [[JlrsLedger]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5dbd68805f699954279375637120bd6603d5ac4c"
+git-tree-sha1 = "2ad1ffcaf49185fc226e6dd204a43342bd20a232"
 libc = "musl"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "1979eb6ba8dc7c9301078d44a51f82e36421f5edbcddff0e8fe02a4cc65027d6"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "8a5359b1a52e27f4647f61b44533383b3afda445e5b68f43559ec0597045c2f8"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.armv6l-linux-musleabihf.tar.gz"
 [[JlrsLedger]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "d0a667c6c6ba29647e4dc212141e3d8b3c3b2fa1"
+git-tree-sha1 = "27d20da7712c4276420b7d65abea93cce072bbea"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "a228ba0d14aef28d07bf4a652b328b870f1533fe34eb381bb453683bb5763dae"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "02463490731c557ffa6f8bb046ccbbf75640218646ffefb738a9b27f385213e9"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.armv7l-linux-gnueabihf.tar.gz"
 [[JlrsLedger]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "32a1dc3927a356439d050362b98bd74156f821fb"
+git-tree-sha1 = "da2aae3f6453930dcbbfde8b4f2c201b3613fcf0"
 libc = "musl"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "b19f697ce83cfae6650ed1259417e2b9a15cac309eea2d79b33586fa7ca30f98"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "3470f3f62037654620d03fb63322b92de12e395a0aa8a785cb1c36e747824c62"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.armv7l-linux-musleabihf.tar.gz"
 [[JlrsLedger]]
 arch = "i686"
-git-tree-sha1 = "4e6479aa4a08efabf3f214ee3ad30052620368e2"
+git-tree-sha1 = "ad800330ac2191b25410554cc01ef0f208c3b8ab"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "5679c15e3f72e1b1d253b831ea1feb59ac43943999542aefa4f52f36e5e89c6a"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.i686-linux-gnu.tar.gz"
+    sha256 = "28e3e5a38f93831865118b28af01ca98a901980ba40c32f43e4718160b29cdff"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.i686-linux-gnu.tar.gz"
 [[JlrsLedger]]
 arch = "i686"
-git-tree-sha1 = "a29324d5975676404b406cb6e5876ad7d9aa4cf3"
+git-tree-sha1 = "9c189a2c0b7315584faa48ad8a3e3a979a2ad225"
 libc = "musl"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "23928b89035acdd5b14c37df6691e807e6d0bb6d04fa488bd4474182d63859e0"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.i686-linux-musl.tar.gz"
+    sha256 = "eedb5fdbe88d74b72e08c2c1cca5bf4f594a52642664d7a126c62ab3bfca1ae0"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.i686-linux-musl.tar.gz"
 [[JlrsLedger]]
 arch = "i686"
-git-tree-sha1 = "b6a9a741df093916ece7d080c9fa3040129105a9"
+git-tree-sha1 = "8b1e90e6df3ca223d2349ac84d572b07f7f031e2"
 os = "windows"
 
     [[JlrsLedger.download]]
-    sha256 = "6b52b606e4e44c506e5f4381520e5f27ce6ecbbd03ac907ddbb2e268f374c6fb"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.i686-w64-mingw32.tar.gz"
+    sha256 = "516375af0c4e6bc8d46035feb79c9bcf1cbca0747fb3a321fb46b9d26d5c3614"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.i686-w64-mingw32.tar.gz"
 [[JlrsLedger]]
 arch = "powerpc64le"
-git-tree-sha1 = "67d2dc4f9f309c519b48c34c822bf5d9e49f6a15"
+git-tree-sha1 = "dbcd4a067e604f4ff062e8ab8c785dd82b0f0a86"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "af4de38b2ebd0d7fa119c3e94d9b0fef52f043e7766b65c60792fb0a23e648b3"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "0fa9c5dac85179b372405dbcfe9ba1cd080260fc1d102cd42513e0821cdaa8d9"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.powerpc64le-linux-gnu.tar.gz"
 [[JlrsLedger]]
 arch = "x86_64"
-git-tree-sha1 = "af7bf6f6e6f6adf74862694c236c1ff1891c6a56"
+git-tree-sha1 = "6826965e45eea89281a687ce1adc4f5bd6436268"
 os = "macos"
 
     [[JlrsLedger.download]]
-    sha256 = "2717321e446d4016c2b3958b418496a62270d84e5f0c437ce0ed3cd008b5c06f"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.x86_64-apple-darwin.tar.gz"
+    sha256 = "8cf2b108ca09cc17d0c0a1cd07862210ab1e6695ed5a4d00406e8646dcf737f0"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.x86_64-apple-darwin.tar.gz"
 [[JlrsLedger]]
 arch = "x86_64"
-git-tree-sha1 = "20d72f96e835e4eaeb94332010e97d9baa59152b"
+git-tree-sha1 = "c441b46f0d6c964128dd970d173a445717a17200"
 libc = "glibc"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "cba138f9075a87a18dc3d6d44b487b6a410c6c6c1d8c85e9adee25252b76118d"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.x86_64-linux-gnu.tar.gz"
+    sha256 = "7be3db7a41c461eb33e92d9545147c5b69110e3fb24e4260b1edc8ac652f77f9"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.x86_64-linux-gnu.tar.gz"
 [[JlrsLedger]]
 arch = "x86_64"
-git-tree-sha1 = "d5a08069e3f4051940b478e82f04033a87751f48"
+git-tree-sha1 = "08f91a79d3172244a4a1d6c41fc8ba8cc7de1ad1"
 libc = "musl"
 os = "linux"
 
     [[JlrsLedger.download]]
-    sha256 = "5d506546165469029cbec47ecc6f26e8588c62417bd53331b87d90af1d5c7d52"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.x86_64-linux-musl.tar.gz"
+    sha256 = "f1190972dd3654e0a730d29a015a716d609736ca20d52623edd211528b50eea5"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.x86_64-linux-musl.tar.gz"
 [[JlrsLedger]]
 arch = "x86_64"
-git-tree-sha1 = "694d92d121995c93d1cda78df4eed3ac44057859"
+git-tree-sha1 = "886d78ebd2f2d12a098c5036f186ffb63491734a"
 os = "freebsd"
 
     [[JlrsLedger.download]]
-    sha256 = "f880d964a46080ed7d44ecbd5166018ce97b605b8b4d08721f9ad6da92a04e55"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a106f8f1e159cee784641ef3f8b82a82cf188a8262535192ab8f6a6b32d6ba92"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.x86_64-unknown-freebsd.tar.gz"
 [[JlrsLedger]]
 arch = "x86_64"
-git-tree-sha1 = "100b486c1cf50bb7ee5b2d7a481ef57fd6c35fff"
+git-tree-sha1 = "56ed015b1f40b6791f70b68b33cc5bf7ff9c27d6"
 os = "windows"
 
     [[JlrsLedger.download]]
-    sha256 = "67b5582d02bad17b3b5b860e4b8507063d14e4b08d1690c6ed44618978d49f21"
-    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.0.3+0/JlrsLedger.v0.0.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8ee493849292dcebbf4add74e9ae56a5c6f96a0dc8d477b708c601a7639a6602"
+    url = "https://github.com/JuliaBinaryWrappers/JlrsLedger_jll.jl/releases/download/JlrsLedger-v0.1.0+0/JlrsLedger.v0.1.0.x86_64-w64-mingw32.tar.gz"
